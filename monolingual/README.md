@@ -9,3 +9,5 @@ It includes monolingual files for the "Biological Sciences" and "Health Sciences
 - Spanish
 
 These are the files made available during the [WMT'2016 Biomedical Translation Task](http://www.statmt.org/wmt16/biomedical-translation-task.html).
+
+For more information about the format, please check the [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) folder.
