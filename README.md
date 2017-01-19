@@ -1,7 +1,7 @@
 # Scielo dataset
 
 This dataset contains documents retireved from the [Scielo](http://scielo.org/) database. 
-It includes [parallel documents](link) for three language pairs, as well as [monolingual corpora](link) for each of the four languages. 
+It includes [parallel documents](link) for three language pairs, as well as [monolingual corpora](http://github.com/biomedical-translation-corpora/scielo/tree/master/monolingual) for each of the four languages. 
 The documents can be composed of either a title, the abstract or both of them, depending on their availability in the database.
 We split the dataset in "Biological Sciences" and "Health Sciences" according to the category to which the corresponding journal is indexed in Scielo.
 
