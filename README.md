@@ -1,4 +1,4 @@
-# scielo
+# Scielo dataset
 
 This dataset contains documents retireved from the [Scielo](http://scielo.org/) database. 
 It includes [parallel documents](link) for three language pairs, as well as [monolingual corpora](link) for each of the four languages. 
