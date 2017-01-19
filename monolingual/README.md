@@ -1,7 +1,7 @@
 
-## Monolingual files of the Scielo dataset
+## Monolingual documents of the Scielo dataset
 
-It includes monolingual files for the "Biological Sciences" and "Health Sciences" categories and for the following languages:
+It includes monolingual documents for the "Biological Sciences" and "Health Sciences" categories and for the following languages:
 
 - English
 - French
