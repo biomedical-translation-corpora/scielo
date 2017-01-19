@@ -1,7 +1,7 @@
 
-## Folder for monolingual files of the Scielo dataset
+## Monolingual files of the Scielo dataset
 
-It includes monolingual files for the follwing languages:
+It includes monolingual files for the "Biological Sciences" and "Health Sciences" categories and for the following languages:
 
 - English
 - French
