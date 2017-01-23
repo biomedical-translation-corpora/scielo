@@ -7,6 +7,8 @@ It includes parallel documents for the "Biological Sciences" and "Health Science
 - English-Spanish and Spanish-English
 - English-Portuguese and Portuguese-English
 
+There is no "Biological Sciences" dataset for the English/French language pair.
+
 These are the files made available during the [WMT'2016 Biomedical Translation Task](http://www.statmt.org/wmt16/biomedical-translation-task.html).
 
 For more information about the format, please check the [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) folder.
