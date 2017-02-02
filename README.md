@@ -1,7 +1,7 @@
 # Scielo dataset
 
 This dataset contains documents retireved from the [Scielo](http://scielo.org/) database. 
-It includes [parallel documents](link) for three language pairs, as well as [monolingual corpora](http://github.com/biomedical-translation-corpora/scielo/tree/master/monolingual) for each of the four languages. 
+It includes [parallel documents](link) for three language pairs, as well as aligned documents using the [GMA tool](http://nlp.cs.nyu.edu/GMA/) and [monolingual corpora](http://github.com/biomedical-translation-corpora/scielo/tree/master/monolingual) for each of the four languages. 
 The documents can be composed of either a title, the abstract or both of them, depending on their availability in the database.
 We split the dataset in "Biological Sciences" and "Health Sciences" according to the category to which the corresponding journal is indexed in Scielo.
 
@@ -34,11 +34,4 @@ The Scielo dataset is available in the [BioC XML format](http://bioc.sourceforge
 </document>
 ```
 
-We aligned the documents from the Scielo database using the [GMA tool](http://nlp.cs.nyu.edu/GMA/). The files derived from this alignment  include the following files for each section of the document (title and abstract/text):
-
-- *.crp: aligned sentences
-- *.simr: GMA's word alignment file
-- *.align: GMA's sentence alignment file
-- *.txt.axis: GMA's axis file, one per language
-- *.txt: plain text file, one per language
 
