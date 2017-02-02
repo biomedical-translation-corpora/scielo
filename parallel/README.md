@@ -9,6 +9,6 @@ It includes parallel documents for the "Biological Sciences" and "Health Science
 
 There is no "Biological Sciences" dataset for the English/French language pair.
 
-These are the files made available during the [WMT'2016 Biomedical Translation Task](http://www.statmt.org/wmt16/biomedical-translation-task.html).
+The files are available in our [Google Drive account](https://drive.google.com/drive/folders/0B3UxRWA52hBjR2xXT01FN0Z2ZHM).
 
-For more information about the format, please check the [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) folder.
+For more information about the files format, please check the [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) folder.
