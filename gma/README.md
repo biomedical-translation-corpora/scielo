@@ -9,4 +9,4 @@ This folder includes the following files for the [parallel documents](https://gi
 - *.txt.axis: GMA's axis file, one per language
 - *.txt: plain text file, one per language
 
-These are the files made available during the [WMT'2016 Biomedical Translation Task](http://www.statmt.org/wmt16/biomedical-translation-task.html).
+The files are available in our [Google Drive account](https://drive.google.com/drive/folders/0B3UxRWA52hBjR1g4MTJRc3BmUGc).
