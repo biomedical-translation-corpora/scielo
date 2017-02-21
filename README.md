@@ -10,8 +10,8 @@ We split the dataset in "Biological Sciences" and "Health Sciences" according to
 - English-Portuguese and Portuguese-English
 
 Please cite our publication if you use our corpus ([Bibtex and PDF](http://www.lrec-conf.org/proceedings/lrec2016/summaries/800.html)):
-Mariana Neves, Antonio Jimeno Yepes and Aurélie Névéol
-The Scielo Corpus: a Parallel Corpus of Scientific Publications for Biomedicine
+Mariana Neves, Antonio Jimeno Yepes and Aurélie Névéol. 
+The Scielo Corpus: a Parallel Corpus of Scientific Publications for Biomedicine.
 Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)
 
 The Scielo dataset is available in the [BioC XML format](http://bioc.sourceforge.net/), for which readers and writers are available for many programming languages, as well as various natural language processing tools for biomedicine. There are specific values for the attribute "key" of the XML tag "infon" to identify the language of each document, the section (title or abstract) and the number of the sentence, as illustrated in the example below:
