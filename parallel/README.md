@@ -7,7 +7,10 @@ It includes parallel documents for the "Biological Sciences" and "Health Science
 - English-Spanish and Spanish-English
 - English-Portuguese and Portuguese-English
 
-There is no "Biological Sciences" dataset for the English/French language pair.
+There is no "Biological Sciences" dataset for the English/French language pair. Our Scielo dataset includes training and test data:
+
+- Training data: [parallel documents](https://github.com/biomedical-translation-corpora/scielo/tree/master/parallel) and [alignments](https://github.com/biomedical-translation-corpora/scielo/tree/master/gma)
+- Test data (WMT16): [test set](https://drive.google.com/drive/folders/0B3UxRWA52hBjekJpLUI0VnVqUjg), [gold standard](https://drive.google.com/drive/folders/0B3UxRWA52hBjRGE4WTFvb2VFSTA) and [alignments](https://drive.google.com/drive/folders/0B3UxRWA52hBjckR5bVZ5VzRSMmc).
 
 The files are available in our [Google Drive account](https://drive.google.com/drive/folders/0B3UxRWA52hBjR2xXT01FN0Z2ZHM).
 
